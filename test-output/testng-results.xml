@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="67394" started-at="2018-10-08T11:07:00Z" finished-at="2018-10-08T11:08:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="67394" started-at="2018-10-08T11:07:00Z" finished-at="2018-10-08T11:08:08Z">
+      <class name="Calculator">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Calculator@13deb50e]" name="setUp" is-config="true" duration-ms="13575" started-at="2018-10-08T11:07:00Z" finished-at="2018-10-08T11:07:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="add()[pri:1, instance:Calculator@13deb50e]" name="add" duration-ms="3803" started-at="2018-10-08T11:07:14Z" finished-at="2018-10-08T11:07:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Calculator@13deb50e]" name="tearDown" is-config="true" duration-ms="3042" started-at="2018-10-08T11:07:18Z" finished-at="2018-10-08T11:07:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Calculator@13deb50e]" name="setUp" is-config="true" duration-ms="10347" started-at="2018-10-08T11:07:21Z" finished-at="2018-10-08T11:07:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="sub()[pri:2, instance:Calculator@13deb50e]" name="sub" duration-ms="3789" started-at="2018-10-08T11:07:31Z" finished-at="2018-10-08T11:07:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Calculator@13deb50e]" name="tearDown" is-config="true" duration-ms="2654" started-at="2018-10-08T11:07:35Z" finished-at="2018-10-08T11:07:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Calculator@13deb50e]" name="setUp" is-config="true" duration-ms="9035" started-at="2018-10-08T11:07:37Z" finished-at="2018-10-08T11:07:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="mult()[pri:3, instance:Calculator@13deb50e]" name="mult" duration-ms="3608" started-at="2018-10-08T11:07:46Z" finished-at="2018-10-08T11:07:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mult -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Calculator@13deb50e]" name="tearDown" is-config="true" duration-ms="2483" started-at="2018-10-08T11:07:50Z" finished-at="2018-10-08T11:07:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Calculator@13deb50e]" name="setUp" is-config="true" duration-ms="8865" started-at="2018-10-08T11:07:53Z" finished-at="2018-10-08T11:08:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="div()[pri:4, instance:Calculator@13deb50e]" name="div" duration-ms="3674" started-at="2018-10-08T11:08:01Z" finished-at="2018-10-08T11:08:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Calculator@13deb50e]" name="tearDown" is-config="true" duration-ms="2467" started-at="2018-10-08T11:08:05Z" finished-at="2018-10-08T11:08:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Calculator -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
